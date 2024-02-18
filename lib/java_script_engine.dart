@@ -4,7 +4,7 @@ import 'package:ffi/ffi.dart' as ffi;
 
 import 'java_script_engine_bindings_generated.dart';
 
-const String _libName = 'ffigen_app';
+const String _libName = 'java_script_engine';
 
 final DynamicLibrary _dylib = () {
   if (Platform.isMacOS || Platform.isIOS) {
