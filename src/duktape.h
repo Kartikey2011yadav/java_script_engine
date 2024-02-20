@@ -1,17 +1,4 @@
-/*
- *  Duktape public API for Duktape 2.7.0.
- *
- *  See the API reference for documentation on call semantics.  The exposed,
- *  supported API is between the "BEGIN PUBLIC API" and "END PUBLIC API"
- *  comments.  Other parts of the header are Duktape internal and related to
- *  e.g. platform/compiler/feature detection.
- *
- *  Git commit 03d4d728f8365021de6955c649e6dcd05dcca99f (03d4d72-dirty).
- *  Git branch HEAD.
- *
- *  See Duktape AUTHORS.rst and LICENSE.txt for copyright and
- *  licensing information.
- */
+
 
 /* LICENSE.txt */
 /*
